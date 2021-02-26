@@ -1,6 +1,7 @@
-Бот для общения со случайным собеседником в Telegram
+How to install
 ====================================================
 
+vvvvvv INI DI TRANSLATE GOBLOKKK vvvvvv
 Для запуска сервера необходимо:
  
 * Создать файл config.py из шаблона congig.py.tmpl.
@@ -8,10 +9,7 @@
 * Установить библиотеку python-telegram-bot.
 
 ```
-pip install -r requires.txt
+pip3 install -r requires.txt
 ```
 
-Код написан для версии Python 3.5.1.
-
-Адрес бота: 
-[https://telegram.me/FindAndTalkBot](https://telegram.me/FindAndTalkBot)
+Example of template bot [here](t.me/temanrandom_bot)
