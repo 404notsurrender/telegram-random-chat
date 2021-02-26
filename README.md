@@ -2,6 +2,7 @@ How to install
 ====================================================
 
 vvvvvv INI DI TRANSLATE GOBLOKKK vvvvvv
+
 Для запуска сервера необходимо:
  
 * Создать файл config.py из шаблона congig.py.tmpl.
